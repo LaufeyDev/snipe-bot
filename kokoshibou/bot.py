@@ -57,4 +57,4 @@ async def Help(ctx):
 
 
 
-bot.run('OTQ1MjQyMzgyMjIyMzg1MTky.YhNTkQ.xBgZTYn7L1Ehs7MmuI09z6Z2_k8')   
+bot.run('Include token')   
